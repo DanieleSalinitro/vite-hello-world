@@ -1,5 +1,5 @@
 <template>
-    <h1>{{ title }}</h1>
+        <h1>{{ title }}</h1>    
 </template>
 
 <script>
@@ -24,9 +24,8 @@
 
 <style scoped>
     h1{
-        color: blue;
+        color: white;
         font-size: 4em;
         text-align: center;
-        font-weight: bold;
     }
 </style>
